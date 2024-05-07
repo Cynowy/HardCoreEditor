@@ -4,15 +4,11 @@
 
 using namespace std;
 
-void clrscr() {
-    cout << "\033c";
-}
-
 int main() {
     string content;
     string line;
 
-    clrscr();
+    cout << "\033c";
 
     cout << "HardCoreEditor v0.1\n";
 
