@@ -1,4 +1,3 @@
-HardCoreEditor is an open-source code editor which is very hard to code with it.
-It's hard because you can't go back in any line. Because of that reason the name of this code editor is HardCoreEditor.
-You can do your own distribution from this program.
-Have fun with this code editor:)
+HardCoreEditor is an open-source code editor which was made only as a joke. It's for programmers that never do a fail. In this code editor you can't go back into a line,  because of that it's really hard to use.
+
+Have fun in coding:)
